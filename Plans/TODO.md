@@ -30,7 +30,11 @@
 
 - [ ] [Телеграм-боты на Python и AIOgram](https://stepik.org/course/120924/syllabus)
 - [ ] [Поколение Python": курс для продвинутых](https://stepik.org/course/68343/syllabus)
-- [ ] [Основы статистики]
+- [ ] [Основы статистики](https://stepik.org/course/76/syllabus)
+- [ ] [Вселенная тестирования, или Как стать тестировщиком](https://stepik.org/course/118842/syllabus)
+- [ ] [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus)
+- [ ] [Анализ данных просто и доступно.](https://stepik.org/course/73952/syllabus)
+- [ ] [Python для pre-junior Backend-разработчика](https://stepik.org/course/122813/syllabus)
   
 
 # Список вопросов
