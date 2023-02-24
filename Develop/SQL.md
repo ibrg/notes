@@ -45,3 +45,9 @@ first_name |            title
  Enos       | et eos dicta
 
 ```
+`LEFT JOIN` полезен, когда нам нужно работать со всеми данными одной таблицы и связанными с ними записями, если они есть. Если их нет, то ничего страшного, мы все равно хотим получить данные из первой таблицы.
+
+SELECT topics.id AS topics_id, users.id AS users_id
+FROM topics JOIN users
+ON topics.user_id = users.id
+WHERE users.email = '%lannister.com';
