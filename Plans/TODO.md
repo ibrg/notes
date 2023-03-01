@@ -14,7 +14,7 @@
 - [x] Продвинутое тестирование
 - [x] Основы современной верстки
 - [x] Основы верстки контента
-- [ ] Python: Веб-разработка (Flask)
+- [x] Python: Веб-разработка (Flask)
 - [x] Основы реляционных баз данных
   
 ## Проекты
@@ -22,6 +22,17 @@
 - [ ] Анализатор страниц
 - [ ] Менеджер задач
 
+# Hexlet: дополнительние курсы
+- [ ] [Основы автоматизации в Ansible](https://ru.hexlet.io/courses/ansible)
+- [ ] [Теория множеств](https://ru.hexlet.io/courses/set-theory)
+- [ ] [# Python: Составные данные](https://ru.hexlet.io/courses/python-compound-data)
+- [ ] [# Python: Numpy-массивы](https://ru.hexlet.io/courses/python-numpy)
+- [ ] [# CSS: Вёрстка на Grid](https://ru.hexlet.io/courses/css-grid)
+- [ ] [# Docker: Основы](https://ru.hexlet.io/courses/docker-basics)
+# Hexlet: дополнительно почитать
+- [ ] [Как разработчику улучшить свое тестовое задание] (https://ru.hexlet.io/blog/posts/kak-razrabotchiku-uluchshit-svoe-testovoe-zadanie)
+- [ ] [Системы счисления](https://guides.hexlet.io/ru/numeral-systems/)
+- [ ] [# Что такое DNS-сервер](https://guides.hexlet.io/ru/dns/)
 # TODO
 - [ ] rewrite to nuxt3 argowmp.com
 - [ ] Построить ограду на 100 кур
