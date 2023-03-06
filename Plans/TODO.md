@@ -27,7 +27,7 @@
 - [ ] [Теория множеств](https://ru.hexlet.io/courses/set-theory)
 - [ ] [# Python: Составные данные](https://ru.hexlet.io/courses/python-compound-data)
 - [ ] [# Python: Numpy-массивы](https://ru.hexlet.io/courses/python-numpy)
-- [ ] [# CSS: Вёрстка на Grid](https://ru.hexlet.io/courses/css-grid)
+- [x] [# CSS: Вёрстка на Grid](https://ru.hexlet.io/courses/css-grid)
 - [ ] [# Docker: Основы](https://ru.hexlet.io/courses/docker-basics)
 - [ ] [# Администрирование Linux](https://ru.hexlet.io/courses/linux-administration)
 - [ ] [# Продакшен и Деплой](https://ru.hexlet.io/courses/production-basics)
